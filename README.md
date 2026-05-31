@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Alice Oliveira 🇧🇷
 
-<!--
-**0salice-eng/0salice-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheira Eletricista em formação especializada no desenvolvimento de Firmware e Co-Design de Hardware/Software. Meu foco é a pesquisa aplicada e o design de Sistemas Embarcados de alta eficiência e baixo consumo.
 
-Here are some ideas to get you started:
+## 🛠️ Áreas de Atuação & Competências
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** C (C11/C18), C++ Moderno, Assembly (ARM/RISC-V), Python
+- **Sistemas Operacionais:** FreeRTOS, Zephyr RTOS, Bare-Metal
+- **Hardware & EDA:** Projetos de PCB (KiCad, Altium Designer), Protocolos de Comunicação (CAN Bus, SPI, I2C, UART)
+- **Pesquisa Aplicada:** Inteligência Artificial na Borda (TinyML), Processamento Digital de Sinais (DSP)
+
+## 🔬 Objetivos Acadêmicos e Profissionais
+
+Atualmente desenvolvendo projetos práticos em Circuitos Digitais, Sistemas Digitais e Microcontroladores, também faço projetos de pesquisa que correlacionam Linguagens e Engenharia elétrica na transição para soluções industriais de IoT e Edge AI. Preparando-me para o ingresso em programas de Mestrado e Doutorado focados em Arquitetura de Computadores e Microcontroladores.
